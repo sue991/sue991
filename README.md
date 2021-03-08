@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%239A5ECF&title_bg=%23555555&icon=wechat.svg&icon_color=%23F2F1F3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsue991%2F999&count_bg=%23B463F1&title_bg=%23555555&icon=wechat.svg&icon_color=%23FBF6FFF3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 [![SuA's GitHub stats](https://github-readme-stats.vercel.app/api?username=sue991&theme=midnight-purple)](https://github.com/sue991/github-readme-stats)
