@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sue991&theme=midnight-purple&count_private=true&layout=compact)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sue991">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sue991">
