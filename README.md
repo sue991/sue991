@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![SuA's GitHub stats](https://github-readme-stats.vercel.app/api?username=sue991&theme=midnight-purple)](https://github.com/sue991)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sue991&theme=midnight-purple&count_private=true&layout=compact)
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sue991">
