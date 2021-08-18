@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![SuA's GitHub stats](https://github-readme-stats.vercel.app/api?username=sue991&theme=midnight-purple)](https://github.com/sue991)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sue991&theme=midnight-purple&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sue991&theme=midnight-purple&count_private=true&layout=compact) 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sue991)](https://solved.ac/sue991)
 
 
